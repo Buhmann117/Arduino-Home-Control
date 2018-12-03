@@ -4,7 +4,7 @@
 
 # You can whitelist files/folders with !, these will not be ignored.
 !.gitignore
-!.ESP8266-Homie-Bad
+!*.ino
 
 # Ignore folders.
 
